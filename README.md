@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ben 👋
 
-<!--
-**bendev9410/bendev9410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science grad who enjoys building practical projects and learning new tech along the way.  
+Right now I'm focused on full stack development and applied machine learning.  
 
-Here are some ideas to get you started:
+### Projects
+- [ArbBot](https://arb-bot-rho.vercel.app/) – a sports betting arbitrage calculator built with Django and React  
+- [Strikeout Predictor](https://www.kaggle.com/code/bennettmoore94/strikeout-predictor-3) – an MLB strikeout prediction model using real Statcast data  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+Python • JavaScript • Django • React • scikit-learn • Pandas • SQL • Git  
+
+### Connect
+[LinkedIn](https://linkedin.com/in/bennettmoore94) | benmoorett@gmail.com
