@@ -8,7 +8,7 @@ Right now I'm focused on full stack development and applied machine learning.
 - [Strikeout Predictor](https://www.kaggle.com/code/bennettmoore94/strikeout-predictor-3) – an MLB strikeout prediction model using real Statcast data  
 
 ### Skills
-Python • JavaScript • Django • React • scikit-learn • Pandas • SQL • Git  
+Python • JavaScript • Django • React • scikit-learn • Pandas • SQL 
 
 ### Connect
 [LinkedIn](https://linkedin.com/in/bennettmoore94) | benmoorett@gmail.com
